@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0C6AE77D-29E9-4919-87B8-FDF564E7DEE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RgPluginsPopupAwait/MainPage.xaml.cs">
+    <Files>
+      <File FileName="RgPluginsPopupAwait/MainPage.xaml.cs" Line="30" Column="13" />
+      <File FileName="RgPluginsPopupAwait/MainPagePopup.xaml" Line="1" Column="1" />
+      <File FileName="RgPluginsPopupAwait/MainPagePopup.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RgPluginsPopupAwait" expanded="True">
+            <Node name="RgPluginsPopupAwait" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPagePopup.xaml" expanded="True" />
+            </Node>
+            <Node name="RgPluginsPopupAwait.Android" expanded="True" />
+            <Node name="RgPluginsPopupAwait.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RgPluginsPopupAwait.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A99F5E11-3EBF-48E2-B48B-D85F43E0212D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RgPluginsPopupAwait.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

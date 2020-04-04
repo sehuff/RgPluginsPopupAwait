@@ -1,0 +1,16 @@
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/bin/Debug/netstandard2.0/RgPluginsPopupAwait.deps.json
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/bin/Debug/netstandard2.0/RgPluginsPopupAwait.dll
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/bin/Debug/netstandard2.0/ref/RgPluginsPopupAwait.dll
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/bin/Debug/netstandard2.0/RgPluginsPopupAwait.pdb
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/MainPage2.xaml.g.cs
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/MainPagePopup.xaml.g.cs
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/RgPluginsPopupAwait.csproj.CoreCompileInputs.cache
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/RgPluginsPopupAwait.AssemblyInfoInputs.cache
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/RgPluginsPopupAwait.AssemblyInfo.cs
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/RgPluginsPopupAwait.dll
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/ref/RgPluginsPopupAwait.dll
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/RgPluginsPopupAwait.pdb
+/Users/shuff/Projects/RgPluginsPopupAwait/RgPluginsPopupAwait/obj/Debug/netstandard2.0/RgPluginsPopupAwait.csprojAssemblyReference.cache

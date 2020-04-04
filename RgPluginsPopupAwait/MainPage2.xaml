@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RgPluginsPopupAwait.MainPage2">
+        <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to MainPage2!" HorizontalOptions="Center" VerticalOptions="Start" />
+    </StackLayout>
+</ContentPage>
